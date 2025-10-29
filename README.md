@@ -61,15 +61,13 @@ cogs
 ---
 **Tech Stack**
 
-SQL:
+### SQL:
 
 Database creation, querying, and aggregation.
 
 Extracted data using JOIN, GROUP BY, and advanced filtering.
 
-
-
-Python:
+### Python:
 
 Data processing with Pandas for cleaning and transformation.
 
@@ -77,7 +75,7 @@ Visualization using Matplotlib and Seaborn for detailed insights.
 
 
 
-Google Looker Studio:
+### Google Looker Studio:
 
 Created interactive dashboards with real-time filters and drill-down capabilities.
 
@@ -86,7 +84,7 @@ Integrated SQL-based data for visualization and easy sharing with stakeholders.
 Features and Benefits
 
 
-Basic SQL Knowledge:
+### Basic SQL Knowledge:
 
 Understanding of SQL queries such as SELECT, JOIN, GROUP BY, and filtering data using WHERE and HAVING.
 
@@ -94,7 +92,7 @@ Familiarity with creating and managing relational databases and tables.
 
 
 
-Basic Python Skills:
+### Basic Python Skills:
 
 Knowledge of Python and libraries such as Pandas for data manipulation and Matplotlib/Seaborn for basic visualizations.
 
@@ -102,7 +100,7 @@ Experience in handling data frames and performing data cleaning and transformati
 
 
 
-Google Looker Studio:
+### Google Looker Studio:
 
 Familiarity with Google Looker Studio (formerly Google Data Studio) for creating interactive dashboards and visualizations.
 
@@ -110,7 +108,7 @@ Knowledge of connecting data sources and building dynamic reports.
 
 
 
-Data Analysis Concepts:
+### Data Analysis Concepts:
 
 Understanding basic data analysis techniques, such as identifying trends, comparing time periods, and aggregating data to derive insights.
 
@@ -118,7 +116,7 @@ Familiarity with metrics like growth percentages, total sales, and performance b
 
 
 
-Tools & Technologies:
+### Tools & Technologies:
 
 SQL Database: A SQL-based database to store and query the data.
 
