@@ -150,8 +150,7 @@ Google Looker Studio: A Google account and access to Looker Studio for creating 
 
 ### 🌟 **Live Demo**
 
-https://lookerstudio.google.com/reporting/ea4a03f6-379d-4564-bdf0-a1f156f61e16
-
+[https://lookerstudio.google.com/reporting/ea4a03f6-379d-4564-bdf0-a1f156f61e16](https://lookerstudio.google.com/reporting/ea4a03f6-379d-4564-bdf0-a1f156f61e16)
 
 ---
 
